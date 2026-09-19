@@ -605,13 +605,13 @@ const questions = [
         "A polymer has two populations:\n\n" +
         "95% of the molecules have M = 20,000 g/mol\n" +
         "5% of the molecules have M = 200,000 g/mol\n\n" +
-        "Calculate Mz in g/mol.",
+        "Calculate Đ (Dispersity), Roundoff to the nearest integer.",
 
     type: "NAT",
 
-    answer: 171261,
+    answer: 3,
 
-    tolerance: 2,
+    tolerance: 0,
 
     marks: 2
 },
